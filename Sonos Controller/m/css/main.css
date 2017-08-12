@@ -1,0 +1,4 @@
+@import url('common.css');
+@import url('landscape.css') (orientation:landscape);
+@import url('portrait.css') (orientation:portrait);
+

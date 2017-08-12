@@ -1,0 +1,16 @@
+{
+    "name": "de.haagwebsites.lgsonoscontroller.sonoscommunicationservice",
+    "version": "1.0.0",
+    "description": "Sonos Communication Service",
+    "main": "sonos-communication-service.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "BSD",
+    "devDependencies": {
+        "async": "^0.9.2",
+        "babel-polyfill": "^6.23.0",
+        "sonos-discovery": "^1.1.3"
+    }
+}

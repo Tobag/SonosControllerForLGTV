@@ -1,0 +1,11 @@
+{
+    "vendor": "My Company",
+    "largeIcon": "largeIcon.png",
+    "icon": "icon.png",
+    "main": "index.html",
+    "id": "de.haagwebsites.lgsonoscontroller",
+    "title": "Sonos Controller",
+    "type": "web",
+    "version": "0.0.1",
+    "uiRevision":2
+}

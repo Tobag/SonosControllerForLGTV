@@ -1,0 +1,9 @@
+{
+    "id": "de.haagwebsites.lgsonoscontroller.sonoscommunicationservice",
+    "description": "Sonos Communication Service",
+    "services": [
+        {
+            "name": "de.haagwebsites.lgsonoscontroller.sonoscommunicationservice"
+        }
+    ]
+}
